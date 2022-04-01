@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sins/static/css/main.c29c0df7.css",
+    "main.js": "/sins/static/js/main.1548e249.js",
+    "static/media/bg.jpg": "/sins/static/media/bg.7f1a0386fd1f5b3142db.jpg",
+    "static/media/LubalinGraphStd-Book.otf": "/sins/static/media/LubalinGraphStd-Book.97775cf406e94b7d91d7.otf",
+    "static/media/icon-5.svg": "/sins/static/media/icon-5.6756437d11ccdbd159a2f01f271f4adb.svg",
+    "static/media/icon-1.svg": "/sins/static/media/icon-1.eec2cadc39ced6b48442e79dffef8014.svg",
+    "static/media/icon-2.svg": "/sins/static/media/icon-2.89aae617f8190db854e5cfca199709c9.svg",
+    "static/media/icon-3.svg": "/sins/static/media/icon-3.0728d8cc99912c590b95e3f1e675e063.svg",
+    "static/media/icon-4.svg": "/sins/static/media/icon-4.c7da0cf475e30a85cb03cea4702f4137.svg",
+    "index.html": "/sins/index.html",
+    "main.c29c0df7.css.map": "/sins/static/css/main.c29c0df7.css.map",
+    "main.1548e249.js.map": "/sins/static/js/main.1548e249.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c29c0df7.css",
+    "static/js/main.1548e249.js"
+  ]
+}
