@@ -6,7 +6,7 @@ html {
   src: url("./lubalin/LubalinGraphStd-Book.otf");
 }
 body {
-  overflow-x: hidden;
+  /* overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   font-family: jgs;
@@ -15,7 +15,7 @@ body {
   background: url("./assests/imgs/bg.jpg") no-repeat center center;
   background-size: cover;
   width: 100%;
-  height: 100vh;
+  height: 100vh; */
 }
 ul,
 li {

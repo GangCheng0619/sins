@@ -1,10 +1,12 @@
 // import "styles/font.css";
 import Homepage from "./pages/home";
-import "./App.css";
+import Main from "./pages/main";
+import "./App1.css";
 function App() {
   return (
     <div className="App">
-      <Homepage />
+      {/* <Homepage /> */}
+      <Main />
     </div>
   );
 }
